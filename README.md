@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/shady19-design/shady19-design/master/name.svg" alt="Shady Mohamed" />
 </h1>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
