@@ -21,11 +21,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Connect with Me :
+**<h3>Contact Info</h3>**
 
-<a href="https://linkedin.com/in/shady-mohamed-100565237" target="_blank"><img src="https://img.shields.io/badge/-Shady%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="http://www.facebook.com/profile.php?!d=100066551980095" target="_blank"><img src="https://img.shields.io/badge/-Shady%20Mohamed-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<div align="center">
+  <a href="mailto:shady.mohamed8830@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Shady Mohame Abdel Gawad Gmail - shady.mohamed8830@gmail.com"  />
+  </a>
+  <a href="https://www.linkedin.com/in/shady-mohamed11/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Shady Mohamed Abdel Gawad LinkedIn - shady mohamed"  />
+  </a>
 
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Languages</h3>
@@ -47,10 +53,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width=40>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width=40>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width=40>
@@ -67,7 +71,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width=40>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
 </div>
@@ -81,7 +84,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=40>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">GitHub Contributions</h3>
 
