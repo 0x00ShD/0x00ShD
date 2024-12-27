@@ -44,3 +44,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://bitcoin.org/en/" target="_blank"> <img src="bitcoin-logo-svgrepo-com.svg" alt="Bitcoin" width="40" height="40"/> </a>
     </p>
 
+<h3 align="left">GitHub Contributions</h3>
+
+<img src="https://raw.githubusercontent.com/AbdulrahmanElshafie/AbdulrahmanElshafie/output/github-contribution-grid-snake-dark.svg" alt="Abdulrahman Saeed Elshafie GitHub Contributions Snake">
+
