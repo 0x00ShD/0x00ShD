@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://bitcoin.org/en/" target="_blank"> <img src="bitcoin-logo-svgrepo-com.svg" alt="Bitcoin" width="40" height="40"/> </a>
     </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">GitHub Contributions</h3>
 
