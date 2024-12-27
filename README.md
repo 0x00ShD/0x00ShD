@@ -87,6 +87,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=40>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width=40>
 
+<h3 align="left">Tools</h3>
+<div align="center">
+<img src="![6556022c72dade2f7ed43f35_dirbuster-logo](https://github.com/user-attachments/assets/c7cd89e1-03a6-4121-97d8-b62de87af600)
+" width=40>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">GitHub Contributions</h3>
