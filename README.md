@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:shady.mohamed8830@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Shady Mohame Abdel Gawad Gmail - shady.mohamed8830@gmail.com"  />
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100066551980095&locale=ar_AR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Abdulrahman Saeed Elshafie WhatsApp - +201018625142"  />
+  </a>
   <a href="https://www.linkedin.com/in/shady-mohamed11/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Shady Mohamed Abdel Gawad LinkedIn - shady mohamed"  />
   </a>
