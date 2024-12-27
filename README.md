@@ -98,7 +98,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/user-attachments/assets/9b48080d-9e03-4293-b710-0b7d3f0e1b79" width=150>
 <img src="https://github.com/user-attachments/assets/3fa303a1-3022-423e-8281-28e18b0a092b" width=40>
 <img src="https://github.com/user-attachments/assets/759f8a95-190f-4b40-9bd9-670c0878d2cf" width=40>
-<img src="https://github.com/user-attachments/assets/e299b6a5-d641-40dd-a505-d37d50d512e1" width=80>
+<img src="https://github.com/user-attachments/assets/e299b6a5-d641-40dd-a505-d37d50d512e1" width=40>
 
 
 
