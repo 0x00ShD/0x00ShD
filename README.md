@@ -90,7 +90,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Tools</h3>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/c7cd89e1-03a6-4121-97d8-b62de87af600" width=40>
-<img src="https://github.com/user-attachments/assets/11242124-f5db-4f97-8266-2189fe9f9dc9" width=150>
+<img src="https://github.com/user-attachments/assets/11242124-f5db-4f97-8266-2189fe9f9dc9" width=180>
+<img src="https://github.com/user-attachments/assets/8d52a4b1-9063-47ce-a4e3-b7bf29e35425" width=40>
+
 
 
 
