@@ -11,8 +11,8 @@
 </p> 
 
 - 👋 Hi, I’m @Offensive Penetration Tester trainee At WE INNOVATE for Zerosploit MEA | Red Team Cybersecurity | CTF Player | Bug hunter | Top 10% Tryhackme
-- 👀 I’m interested in CyberSecurity & EthicalHacker and programming 
-- 🌱 I’m currently learning Ethical Hacker and programming and Starting in Cyber Security 
+- 👀 I’m interested in CyberSecurity & EthicalHacking and programming 
+- 🌱 I’m currently learning Ethical Hacking and programming and Starting in Cyber Security 
 - 💞️ I’m looking to collaborate on any one around the world his interested in Ethical Hacker & Cyber Security 
 
 <!---
